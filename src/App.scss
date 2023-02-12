@@ -7,6 +7,10 @@
   pointer-events: none;
 }
 
+.header-bro{
+  text-align: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +39,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+label{
+  margin: 10px;
+}
+
+input{
+  margin: 5px
+}
+
+.buttonContainer{
+  width: 60px;
+  height: 30px;
+  padding-right: 15px;
+
+  @media screen and (min-width: 768px) {
+      width: 70px;
+      height: 40px;
+      padding-right: 5px;
+      margin: 1rem;
+  }
+  margin: 0.5rem;
+}
+
+.buttonBro{
+  border-radius: 4px;
+  border: 0;
+  width: 120%;
+  height: 120%;
+  position: relative;
+  top: -4px;
+  left: 1px;
+
+  @media screen and (min-width: 768px) {
+      font-size: 1rem;
+  }
+}
+
+.large{
+  width: 130%;
+  height: 148%;
 }
