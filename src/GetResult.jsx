@@ -76,25 +76,25 @@ const GetResult = () => {
         </label>
         
         <label>
-            <h5 style={{display: 'inline', margin: '20px'}}>Protien1</h5> 
+            <h5 style={{display: 'inline', margin: '20px'}}>Protien 1</h5> 
             <input name="protien1" type="range" min="-1" max="1" defaultValue="0" step="0.1" onChange={handleChange}/> 
             {protien1}
         </label>
         
         <label>
-            <h5 style={{display: 'inline', margin: '20px'}}>Protien2</h5> 
+            <h5 style={{display: 'inline', margin: '20px'}}>Protien 2</h5> 
             <input name="protien2" type="range" min="-1" max="1" defaultValue="0" step="0.1" onChange={handleChange}/> 
             {protien2}
         </label>
         
         <label>
-        <h5 style={{display: 'inline', margin: '20px'}}>Protien3</h5> 
+        <h5 style={{display: 'inline', margin: '20px'}}>Protien 3</h5> 
             <input name="protien3" type="range" min="-1" max="1" defaultValue="0" step="0.1" onChange={handleChange}/> 
             {protien3}
         </label>
         
         <label>
-            <h5 style={{display: 'inline', margin: '20px'}}>Protien4</h5> 
+            <h5 style={{display: 'inline', margin: '20px'}}>Protien 4</h5> 
             <input name="protien4" type="range" min="-1" max="1" defaultValue="0" step="0.1" onChange={handleChange}/> 
             {protien4}
         </label>
