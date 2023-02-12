@@ -9,7 +9,7 @@ We can use machine learning to predict whether a patient will survive breast can
 It's a Machine learning web app that takes clinical parameters about a breast cancer patient and tells whether a patient will survive breast cancer or not. 
 
 ## How we built it
-For Machine Learning: Python & its libraries such as Matplotlib, Sci-kit-learn, and Pandas.
+For Machine Learning: Python & its libraries such as Matplotlib, Sci-kit-learn, and Pandas. <br/>
 For Web: HTML, SCSS, JS, React, Node.js, Express.js
 
 ## Challenges we ran into
