@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+## Inspiration
+One out of eight women will get breast cancer in their lifetime, and every hour nearly five women die from this disease.
+
+In 2020, there were 2.3 million women diagnosed with breast cancer and 685 000 deaths globally. As of the end of 2020, there were 7.8 million women alive who were diagnosed with breast cancer in the past 5 years, making it the world’s most prevalent cancer. There are more loss disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer.  Breast cancer occurs in every country of the world in women at any age after puberty but with increasing rates in later life.  
+
+We can use machine learning to predict whether a patient will survive breast cancer or not.
+
+## What it does
+It's a Machine learning web app that takes clinical parameters about a breast cancer patient and tells whether a patient will survive breast cancer or not. 
+
+## How we built it
+For Machine Learning: Python & its libraries such as Matplotlib, Sci-kit-learn, and Pandas.
+For Web: HTML, SCSS, JS, React, Node.js, Express.js
+
+## Challenges we ran into
+1. Model creation
+2. Connecting 2 different technologies: ML (Python) + Web (React)
+
+## Accomplishments that we're proud of
+I'm able to connect 2 different technologies & I successfully completed this project. 
+
+## What we learned
+How to do optimizations in models.
+Hot to connect javascript with python.
+
+## What's next for Breast Cancer Survival Detection Web App
+As of now in Kaggle's dataset, we have very few samples, because of this my model accuracy is 82.8%. If we have plenty of data then we can use it to train bigger models and we can deploy it in production
+
+# How to setup project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
